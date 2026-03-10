@@ -24,20 +24,20 @@ The council is chaired by John Carmack and includes nine domain experts:
 
 | Expert | Domain | Reference Doc |
 |--------|--------|--------------|
-| Troy Hunt | Security | `security.md` | https://www.troyhunt.com/ 
-| Martin Fowler | Refactoring / Structure | `refactoring.md` | https://martinfowler.com/
-| Kent C. Dodds | Frontend Quality | `quality-frontend.md` | https://kentcdodds.com/
-| Matteo Collina | Backend Quality | `quality-backend.md` | https://nodeland.dev/
-| Brandur Leach | Postgres Quality | `quality-postgres.md` | https://brandur.org/
-| Vercel Performance | Performance | External rules | https://vercel.com/
-| Simon Willison | LLM Pipeline Quality | `quality-llm.md` | https://simonwillison.net/
-| Karri Saarinen | UI Quality | `quality-ui.md` | https://karrisaarinen.com/
-| Vitaly Friedman | UX Quality | `quality-ux.md` | https://www.smashingmagazine.com/author/vitaly-friedman/
-| Kent Beck | Test Quality | `quality-testing.md` | https://kentbeck.com/
+| Troy Hunt | Security | `security.md` | https://www.troyhunt.com/ |
+| Martin Fowler | Refactoring / Structure | `refactoring.md` | https://martinfowler.com/ |
+| Kent C. Dodds | Frontend Quality | `quality-frontend.md` | https://kentcdodds.com/ |
+| Matteo Collina | Backend Quality | `quality-backend.md` | https://nodeland.dev/ |
+| Brandur Leach | Postgres Quality | `quality-postgres.md` | https://brandur.org/ |
+| Vercel Performance | Performance | External rules | https://vercel.com/ |
+| Simon Willison | LLM Pipeline Quality | `quality-llm.md` | https://simonwillison.net/ |
+| Karri Saarinen | UI Quality | `quality-ui.md` | https://karrisaarinen.com/ |
+| Vitaly Friedman | UX Quality | `quality-ux.md` | https://www.smashingmagazine.com/author/vitaly-friedman/ |
+| Kent Beck | Test Quality | `quality-testing.md` | https://kentbeck.com/ |
 
 The whole point of this approach is that all plans, implementation work and reviews are grounded in the publicly shared principles of some of the world's leading engineers and designers. Not widely regarded best practices. Not based on examples from docs. But the strong opinions of the people who build/design software that I love.
 
-These guys are all total ballers and I enourage you to check out their sites, buy their books, use their products and enroll in their courses.
+These guys are all total ballers, and I enourage you to check out their sites, buy their books, use their products and enroll in their courses.
 
 ## Disclaimer
 If somehow a member of the council stumbles upon this repo, please know that the reason you're here is because I (and many others) see you as pretty much the absolute leader in your domain. I basically think you're awesome, and fanboy hard on your work. 
