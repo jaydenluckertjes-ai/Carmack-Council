@@ -58,7 +58,7 @@ The reference docs contain stack-specific patterns and examples throughout. Thes
 | `references/quality-frontend.md` | React, Next.js App Router, Server/Client Components, CSS Modules + BEM | Replace with your frontend framework and styling approach |
 | `references/quality-postgres.md` | Prisma ORM, Neon serverless Postgres, PgBouncer | Replace with your ORM and Postgres provider. Core Postgres principles (schema design, migrations, transactions) are universal |
 | `references/quality-testing.md` | Vitest, Cypress, tRPC test utilities | Replace with your test framework and tooling |
-| `references/quality-llm.md` | General LLM pipeline principles — largely stack-agnostic. References Braintrust for evals | Replace eval tooling references if using a different platform |
+| `references/quality-llm.md` | General LLM pipeline principles — largely stack-agnostic | — |
 | `references/quality-ui.md` | CSS Modules + BEM, dark theme, Inter + JetBrains Mono fonts, Linear-inspired aesthetic | Replace with your design system, theme, fonts, and aesthetic |
 | `references/quality-ux.md` | Data-dense analytical interface patterns | Adjust for your product type and user context |
 | `references/refactoring.md` | tRPC, Prisma, Next.js patterns | Replace with your stack's refactoring patterns. Core refactoring principles are universal |

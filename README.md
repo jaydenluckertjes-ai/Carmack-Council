@@ -53,7 +53,7 @@ Each `.skill` file is a self-contained zip archive with the SKILL.md and all req
 ### From source
 
 ```bash
-git clone https://github.com/SamHudson/carmack-council.git
+git clone https://github.com/SamJHudson01/Carmack-Council.git
 cd carmack-council
 chmod +x scripts/build.sh
 ./scripts/build.sh

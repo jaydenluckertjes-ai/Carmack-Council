@@ -448,8 +448,8 @@ Actions the developer must take outside the codebase before implementation can b
 
 | # | What | Why | Blocking task |
 |---|------|-----|---------------|
-| 1 | [e.g., "Create a Statsig project and generate a Server Secret Key"] | [e.g., "The SDK initialisation in Task 3 requires this key in STATSIG_SERVER_SECRET"] | Task 3 |
-| 2 | [e.g., "Enable webhooks in Statsig console, set endpoint to /api/webhooks/statsig"] | [e.g., "Task 7 implements the webhook handler but it needs to receive events"] | Task 7 |
+| 1 | [e.g., "Create a project in the external service and generate an API key"] | [e.g., "The SDK initialisation in Task 3 requires this key in the environment"] | Task 3 |
+| 2 | [e.g., "Configure webhooks in the service console, set endpoint to /api/webhooks/service-name"] | [e.g., "Task 7 implements the webhook handler but it needs to receive events"] | Task 7 |
 
 If no external setup is required, state: "No external setup required. All tasks can be implemented within the codebase."
 
