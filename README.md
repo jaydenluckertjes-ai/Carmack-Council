@@ -20,10 +20,10 @@ I have reasons (ranging from solid to near arbitrary) for picking all of these t
 
 I'm aware that some people hate this stack or elements of it. I'm OK with that. The main point of the repo is to introduce the council concept, and it's easy enough to adapt this to your preferred/existing stack.
 
-The council is chaired by John Carmack and includes nine domain experts: 
+The council is chaired by John Carmack and includes nine domain experts:
 
-| Expert | Domain | Reference Doc |
-|--------|--------|--------------|
+| Expert | Domain | Reference Doc | Link |
+|--------|--------|--------------|------|
 | Troy Hunt | Security | `security.md` | https://www.troyhunt.com/ |
 | Martin Fowler | Refactoring / Structure | `refactoring.md` | https://martinfowler.com/ |
 | Kent C. Dodds | Frontend Quality | `quality-frontend.md` | https://kentcdodds.com/ |
