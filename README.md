@@ -171,12 +171,7 @@ This is what gives the workflow its compound effect. The first review is cold. B
 
 The file is simple — each convention is a short entry describing what the pattern is and why it exists. See [`example_conventions.md`](example_conventions.md) for the format.
 
-## Disclaimer
-If somehow a member of the council stumbles upon this repo, please know that the reason you're here is because I (and many others) see you as pretty much the absolute leader in your domain. I basically think you're awesome, and fanboy hard on your work. 
 
-If you feel like I've misrepresented you, made you look bad or just don't want your name on this at all, feel free to reach out. I'm happy to make changes. 
-
-Please don't sue me x
 
 ## Requirements
 
